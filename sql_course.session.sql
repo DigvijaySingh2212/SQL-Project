@@ -17,4 +17,4 @@ CREATE TABLE march_jobs AS
     WHERE EXTRACT(MONTH FROM job_posted_date) = 3;
 
 
-    
+     
